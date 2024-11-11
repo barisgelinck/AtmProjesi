@@ -14,7 +14,7 @@ namespace AtmProjesi
     }
 }
 
-//.
+//..
 public class Account
 {
     public string CardNumber { get; set; }
